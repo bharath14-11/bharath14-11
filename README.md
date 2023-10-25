@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Ruby On Rails**
 
-- 🌱 I’m currently learning **Preact and Vue**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **IoS Development**
 
